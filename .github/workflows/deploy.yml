@@ -25,7 +25,7 @@ jobs:
             - name: Deploy Web
               uses: peaceiris/actions-gh-pages@v4
               with:
-                  PERSONAL_TOKEN: ${{ secrets.myblog }}
+                  deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
                   EXTERNAL_REPOSITORY: Cyan-Feather/Cyan-Feather.github.io
                   PUBLISH_BRANCH: main
                   PUBLISH_DIR: ./public
