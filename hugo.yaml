@@ -1,5 +1,5 @@
-baseURL: localhost:1313
-# baseURL: https://www.sulvblog.cn  # 绑定的域名
+# baseURL: localhost:1313
+baseURL: https://cyan-feather.github.io/  # 绑定的域名
 languageCode: zh-cn # en-us
 title: Sulv's Blog
 theme: PaperMod # 主题名字，和themes文件夹下的一致
