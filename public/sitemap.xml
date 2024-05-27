@@ -2,7 +2,9 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>//localhost:1313/en/sitemap.xml</loc>
+    <loc>https://cyan-feather.github.io/zh/sitemap.xml</loc>
+    
+      <lastmod>2024-05-20T16:32:02+08:00</lastmod>
     
   </sitemap>
   

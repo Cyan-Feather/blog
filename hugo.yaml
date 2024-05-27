@@ -4,6 +4,7 @@ languageCode: zh-cn # en-us
 title: Sulv's Blog
 theme: PaperMod # 主题名字，和themes文件夹下的一致
 
+
 enableInlineShortcodes: true
 enableEmoji: true # 允许使用 Emoji 表情，建议 true
 enableRobotsTXT: true # 允许爬虫抓取到搜索引擎，建议 true
@@ -27,7 +28,7 @@ permalinks:
   post: "/:title/"
   # post: "/:year/:month/:day/:title/"
 
-defaultContentLanguage: en # 最顶部首先展示的语言页面
+defaultContentLanguage: zh # 最顶部首先展示的语言页面
 defaultContentLanguageInSubdir: true
 
 languages:
