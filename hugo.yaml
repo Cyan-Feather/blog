@@ -31,8 +31,8 @@ defaultContentLanguage: en # 最顶部首先展示的语言页面
 defaultContentLanguageInSubdir: true
 
 languages:
-    en:
-      languageName: "English"
+    zh:
+      languageName: "zh"
       # contentDir: content/english
       weight: 1
       params:
