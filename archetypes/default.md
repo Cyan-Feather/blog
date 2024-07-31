@@ -3,6 +3,8 @@ title: "{{ replace .Name "-" " " | title }}" #标题
 date: {{ .Date }} #创建时间
 lastmod: {{ .Date }} #更新时间
 author: ["Cyan Feather"] #作者
+keywords: 
+- 关键词1
 categories: 
 - 分类1
 - 分类2
